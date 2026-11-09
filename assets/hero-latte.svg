@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 670" role="img" aria-label="Большой стакан холодного латте Moka"><defs>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffedce" stop-opacity=".97"/><stop offset=".27" stop-color="#fff8e6" stop-opacity=".87"/><stop offset=".76" stop-color="#f4d6a6" stop-opacity=".85"/><stop offset="1" stop-color="#fff4db" stop-opacity=".96"/></linearGradient>
+<linearGradient id="drink" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f6e3bd"/><stop offset=".28" stop-color="#e5ba86"/><stop offset=".57" stop-color="#bf7540"/><stop offset="1" stop-color="#7f4325"/></linearGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff9e9"/><stop offset="1" stop-color="#efcb92"/></linearGradient>
+<linearGradient id="straw" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e76936"/><stop offset=".5" stop-color="#ffad68"/><stop offset="1" stop-color="#d45629"/></linearGradient>
+<filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feGaussianBlur stdDeviation="17"/></filter>
+</defs>
+<ellipse cx="290" cy="615" rx="195" ry="24" fill="#69371a" opacity=".2" filter="url(#shadow)"/>
+<g transform="rotate(-8 306 360)">
+<rect x="347" y="38" width="23" height="268" rx="10" fill="url(#straw)" transform="rotate(12 358 170)"/>
+<rect x="146" y="185" width="324" height="410" rx="81" fill="url(#glass)" stroke="#fef5e6" stroke-width="11"/>
+<clipPath id="inside"><rect x="160" y="208" width="296" height="373" rx="67"/></clipPath>
+<g clip-path="url(#inside)"><rect x="160" y="205" width="296" height="380" fill="url(#drink)"/><path d="M154 247C218 229 271 271 326 250C387 227 418 257 470 238V296C400 289 353 318 296 305C228 289 189 307 150 295Z" fill="#fff5d7" opacity=".75"/><path d="M145 319C206 278 269 347 331 314C385 281 430 324 474 306V368C403 357 373 386 321 372C251 353 202 389 146 367Z" fill="#f8daad" opacity=".45"/><path d="M145 428C219 396 263 452 328 420C390 387 413 435 473 421V488C390 461 355 510 298 480C226 456 177 498 145 468Z" fill="#eec090" opacity=".23"/><rect x="206" y="291" width="67" height="65" rx="13" fill="#fff8e5" opacity=".47" transform="rotate(-19 238 320)"/><rect x="312" y="369" width="64" height="57" rx="12" fill="#fff8e5" opacity=".3" transform="rotate(22 344 392)"/><rect x="197" y="469" width="65" height="63" rx="11" fill="#fff8e5" opacity=".22" transform="rotate(18 228 500)"/></g>
+<ellipse cx="308" cy="203" rx="155" ry="41" fill="url(#rim)" stroke="#f9dfb4" stroke-width="7"/>
+<ellipse cx="308" cy="204" rx="127" ry="24" fill="#f9eccf"/><path d="M217 203c25-15 54 15 86 2 32-13 65-10 92 0" fill="none" stroke="#efcba2" stroke-width="8" stroke-linecap="round"/>
+<path d="M184 268V503" stroke="white" opacity=".28" stroke-width="12" stroke-linecap="round"/>
+<path d="M441 279V502" stroke="#fff6e2" opacity=".33" stroke-width="8" stroke-linecap="round"/>
+<rect x="225" y="344" width="168" height="118" rx="16" fill="#f7ead0" opacity=".96"/>
+<text x="309" y="399" text-anchor="middle" font-size="39" font-family="Arial, sans-serif" font-weight="900" fill="#213c30" letter-spacing="-2">moka.</text>
+<text x="309" y="426" text-anchor="middle" font-size="12" font-family="Arial, sans-serif" font-weight="bold" fill="#213c30" letter-spacing="4">DAILY COFFEE</text>
+<g fill="#fff" opacity=".48"><ellipse cx="204" cy="414" rx="5" ry="12"/><ellipse cx="415" cy="345" rx="4" ry="10"/><ellipse cx="194" cy="551" rx="4" ry="8"/></g>
+</g></svg>
